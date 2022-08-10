@@ -1,0 +1,14 @@
+{
+  "name": "mongocurd",
+  "version": "1.0.0",
+  "description": "This module is made for personal use this helps to do basic operations like CURD of mongoDB using Node.js ",
+  "main": "mongoCURD.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pratik Shinde",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.0.0"
+  }
+}
